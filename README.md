@@ -13,7 +13,7 @@ En los últimos años se han desarrollado programas de ordenador que nos permite
 * Normalmente el contenido se escribe en un lenguaje de marcas sencillo como es Markdown. 
 * Una vez generado el sitio estático sólo tenemos que desplegar el sitio en nuestro servidor en producción.
 
-Tenemos muchos generadores de páginas estáticas: Jekyll, Hugo, Pelican...  Puedes encontrar una lista completa en: [Site Generators](https://jamstack.org/generators/).
+Tenemos muchos generadores de páginas estáticas: Jekyll, Hugo, Pelican... Puedes encontrar una lista completa en: [Site Generators](https://jamstack.org/generators/).
 
 ### Despliegue de nuestro sitio web
 
