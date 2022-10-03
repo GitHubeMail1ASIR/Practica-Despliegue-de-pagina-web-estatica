@@ -49,3 +49,6 @@ De esta forma, el powerbuilding se centraría en desarrollar la fuerza y mejorar
 ----------------
 
 Esto sería todo de momento, en el futuro quizás os traiga más posts sobre el tema del deporte y os relate mi camino por la senda de la nutrición y el fitness más detalladamente. ¡Hasta la próxima!
+
+
+🗸 Proyecto subido con el hook post-commit de git.

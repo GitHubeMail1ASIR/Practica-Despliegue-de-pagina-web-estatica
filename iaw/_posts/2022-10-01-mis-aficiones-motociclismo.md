@@ -36,3 +36,5 @@ Otro punto negativo a tener en cuenta es que su faro frontal ilumina poco, pero 
 ----------------
 
 Y hasta aquí el post de hoy, espero que os haya gustado y sido de utilidad para aquellos que estéis pensando en comprar una moto. ¡Hasta la próxima!
+
+🗸 Proyecto subido con el hook post-commit de git.
