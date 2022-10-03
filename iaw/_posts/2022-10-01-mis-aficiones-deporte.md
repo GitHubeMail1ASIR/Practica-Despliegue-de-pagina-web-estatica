@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Mis aficiones: Deporte"
-date:   2022-10-01 15:13:20 +0200
+date:   2022-10-01 15:13:19 +0200
 category: personal
 ---
 Para finalizar estos posts sobre mí, os voy a hablar de algo fundamental en mi vida, el deporte.
