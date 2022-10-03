@@ -40,7 +40,7 @@ A continuación os haré una mini reseña de los varios gimnasios a los que he i
 
 ## ¿Qué hago en el gimnasio?
 
-En el gimnasio me dedico a hacer ejercicio principalmente con lo que se llaman levantamientos de peso libre. Para ser más exactos, sigo una mezcla de disciplinas llamada *powerbuilding* ([powerlifting](https://es.wikipedia.org/wiki/Levantamiento_de_potencia) + [bodybuilding](https://es.wikipedia.org/wiki/Culturismo)).
+En el gimnasio me dedico a hacer ejercicio principalmente con lo que se llaman levantamientos de peso libre. Para ser más exactos, sigo una mezcla de disciplinas llamada *powerbuilding* ([powerlifting](https://en.wikipedia.org/wiki/Powerlifting) + [bodybuilding](https://es.wikipedia.org/wiki/Bodybuilding)).
 
 Mientras que el powerlifting se centra en levantar la mayor cantidad de peso posible en tres ejercicios (sentadilla, press de banca y peso muerto), el bodybuilding se centra en desarrollar la mayor cantidad de masa muscular posible.
 
